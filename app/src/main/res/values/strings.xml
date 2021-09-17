@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="tab2_text">Second Tab</string>
+    <string name="list_maker">List Maker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="item_removed_text">Item Removed</string>
+</resources>
